@@ -5,4 +5,4 @@ This project demonstrates how data-driven insights can be used to make informed 
 
 A quick look at my interactive Sales Analysis Dashboard 👇
 
-![Sales Analysis Dashboard Demo](dash2.gif)
+![Sales Analysis Dashboard Demo]([dash2.gif](https://github.com/amrayyad/Dashboard-EXMPLE/blob/main/dash2.GIF))
